@@ -84,7 +84,7 @@ The dashboard consists of three primary visuals with slicers for dynamic filteri
 ## How to Use
 
 1. Open Power BI Desktop.
-2. Load the `.pbix` file (if available) or connect to the CSV file.
+2. Load the `.pbix` file or connect to the CSV file.
 3. Explore filters on Region, Category, and Month-Year to interact with the dashboard.
 
 ---
